@@ -1,0 +1,16 @@
+{
+  "name": "myproject",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  },
+  "dependencies": {
+    "cesium": "^1.100.0",
+    "ol": "^7.1.0",
+    "olcs": "^2.13.1"
+  }
+}
